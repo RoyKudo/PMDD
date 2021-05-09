@@ -18,5 +18,5 @@ Parameters:
 ## Feature selection  
 Linear SVM and SelectKBest in Grid search cv of Repeated stratidied k fold  
   
-### Tools:  
+### ・Tools:  
 numpy, pandas, cv2, matplotlib, seaborn, plotly.express, k-means, RepeatedStratifiedKFold, SelectKBest, LinearSVC, GridSearchCV
